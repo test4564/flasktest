@@ -2,3 +2,5 @@ gunicorn
 flask
 pyrogram
 tgcrypto
+python-dotenv
+waitress
